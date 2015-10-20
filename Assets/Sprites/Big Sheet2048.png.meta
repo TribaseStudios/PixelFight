@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 10546253c274046459b39dee41545f3d
+timeCreated: 1444786650
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Big Sheet2048_0
+    21300002: Big Sheet2048_1
+    21300004: Big Sheet2048_2
+    21300006: Big Sheet2048_3
+    21300008: Big Sheet2048_4
+    21300010: Big Sheet2048_5
+    21300012: Big Sheet2048_6
+    21300014: Big Sheet2048_7
+    21300016: Big Sheet2048_8
+    21300018: Big Sheet2048_9
+    21300020: Big Sheet2048_10
+    21300022: Big Sheet2048_11
+    21300024: Big Sheet2048_12
+    21300026: Big Sheet2048_13
+    21300028: Big Sheet2048_14
+    21300030: Big Sheet2048_15
+    21300032: Big Sheet2048_16
+    21300034: Big Sheet2048_17
+    21300036: Big Sheet2048_18
+    21300038: Big Sheet2048_19
+    21300040: Big Sheet2048_20
+    21300042: Big Sheet2048_21
+    21300044: Big Sheet2048_22
+    21300046: Big Sheet2048_23
+    21300048: Big Sheet2048_24
+    21300050: Big Sheet2048_25
+    21300052: Big Sheet2048_26
+    21300054: Big Sheet2048_27
+    21300056: Big Sheet2048_28
+    21300058: Big Sheet2048_29
+    21300060: Big Sheet2048_30
+    21300062: Big Sheet2048_31
+    21300064: Big Sheet2048_32
+    21300066: Big Sheet2048_33
+    21300068: Big Sheet2048_34
+    21300070: Big Sheet2048_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Big Sheet2048_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1756
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1756
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_2
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1756
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_3
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1756
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_4
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1756
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_5
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1756
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1464
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1464
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_9
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1464
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_10
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1464
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1172
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1172
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1172
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_14
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1172
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_15
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1172
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 880
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 880
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 880
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_20
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 880
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 588
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 588
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_24
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 588
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_25
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 588
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 296
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 296
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_29
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 296
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_30
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 296
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 4
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_34
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 4
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big Sheet2048_35
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 4
+        width: 292
+        height: 292
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
