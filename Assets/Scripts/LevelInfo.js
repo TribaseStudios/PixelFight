@@ -1,5 +1,5 @@
 ﻿#pragma strict
-
+  
 var spawnPoints : Array;
 var weaponSpawnPoints : Transform[];
 
